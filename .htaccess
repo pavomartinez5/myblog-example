@@ -1,9 +1,0 @@
-setEnv USERNAME "example_postgresql_pavel_user"
-
-setEnv PASSWORD "OQI3EYP2F88CPJB05Uz2dK67YeOfJ1QM"
-
-setEnv DBNAME "example_postgresql_pavel"
-
-setEnv HOST "dpg-cv0dk0tumphs73ck70hg-a.oregon-postgres.render.com"
-
-setEnv PORT "5432"
