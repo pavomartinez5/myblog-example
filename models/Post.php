@@ -180,4 +180,5 @@ class Post {
         return false;
     }
 }
+
 ?>
